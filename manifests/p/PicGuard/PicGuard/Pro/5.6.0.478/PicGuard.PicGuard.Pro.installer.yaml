@@ -41,7 +41,7 @@ Installers:
         UpgradeCode: '{64BDDE9D-FE72-49E2-ABFB-19CF4D1BA55F}'
   - Architecture: arm64
     InstallerUrl: https://github.com/picguard/picguard/releases/download/v5.6.0.478/picguard-pro-5.6.0.478-windows-arm64-zh-CN.msi
-    InstallerSha256: 7A34F5326DBE6DB5C1616E0162080D4D595CB2FA4F03B1491C1116BA66901ACD
+    InstallerSha256: 9DB52EC7EA75566B91DC667DD9489A0C6B3EFC9ED80D408BE2EEC890479304B3
     InstallerLocale: zh-CN
     ProductCode: '{16026A28-E692-4980-B8EF-4B03768F6185}'
     AppsAndFeaturesEntries:
